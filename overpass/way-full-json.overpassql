@@ -1,7 +1,7 @@
 [out:json][timeout:300];
 ( area["admin_level"=""]["wikidata"="Q134674"]; )->.a;
 (
-    way["highway"]["name"]["highway"!="bus_stop"]["highway"!="elevator"]["highway"!="platform"](area.a);
+    way["highway"]["name"]["highway"!="bus_stop"]["highway"!="elevator"]["highway"!="platform"]["highway"!="service"](area.a);
     way["place"="square"]["name"](area.a);
 );
 out body;
