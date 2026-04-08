@@ -1,7 +1,7 @@
 name,source,gender,wikidata,type
 "Allée André Feuillerat",,,,way
 "Allée Bernal",,,,way
-"Allée Cavalière",,,,relation
+"Allée Cavalière",,,,way
 "Allée César Franck",,,,way
 "Allée Charles Docteur",,,,way
 "Allée Docteur Robert Lafon",,,,relation
@@ -19,7 +19,7 @@ name,source,gender,wikidata,type
 "Allée Rose des Vents",,,,way
 "Allée Saute-Ruisseau",,,,way
 "Allée Syringa",,,,way
-"Allée d'Ahusqui",,,,relation
+"Allée d'Ahusqui",,,,way
 "Allée d'Armanet",,,,way
 "Allée d'Osteys",,,,way
 "Allée de Biarnès",,,,way
@@ -67,6 +67,7 @@ name,source,gender,wikidata,type
 "Allée des Roses",,,,way
 "Allée des Tarrides",,,,relation
 "Allée du Bois des Violettes",,,,way
+"Allée du Grand Paradis",,,,way
 "Allée du Laxia",,,,relation
 "Allée du Moulin de Saint-Bernard",,,,way
 "Allée du Petit Basque",,,,way
@@ -87,7 +88,7 @@ name,source,gender,wikidata,type
 "Avenue Chanoine Jean Lamarque",,,,way
 "Avenue Commandant William Boissel",,,,way
 "Avenue Diesse",,,,way
-"Avenue Docteur Bernard Gaudeul",,,,relation
+"Avenue Docteur Bernard Gaudeul",,,,way
 "Avenue Docteur Lafourcade",,,,way
 "Avenue Docteur Léon Moynac",,,,way
 "Avenue Dubrocq",,,,way
@@ -96,30 +97,27 @@ name,source,gender,wikidata,type
 "Avenue Général Lafont",,,,way
 "Avenue Général Thouvenot",,,,way
 "Avenue Henri de Navarre",,,,way
-"Avenue Hiriart",,,,relation
+"Avenue Hiriart",,,,way
 "Avenue Interne Jacques Loeb",,,,relation
 "Avenue Jean Darrigrand",,,,way
-"Avenue Jean Rostand",,,,relation
 "Avenue Joseph Pinatel",,,,way
-"Avenue Lafontaine",,,,relation
+"Avenue Lafontaine",,,,way
 "Avenue Lahubiague",,,,way
 "Avenue Léon Bonnat",,,,way
 "Avenue Lieutenant Colonel de Lassalle",,,,way
-"Avenue Maréchal Soult",,,,relation
 "Avenue Marthe Jan",,,,way
 "Avenue Maurice Goalard",,,,way
 "Avenue Monseigneur Gieure",,,,way
 "Avenue Paul Pras",,,,way
-"Avenue Pierre Loti",,,,relation
-"Avenue Raymond de Martres",,,,relation+way
-"Avenue Roger Maylie",,,,relation+way
-"Avenue Sergent Capmas",,,,relation
+"Avenue Raymond de Martres",,,,way
+"Avenue Roger Maylie",,,,way
+"Avenue Sergent Capmas",,,,way
 "Avenue Sous-Lieutenant Iribarne",,,,way
 "Avenue Toki Eder",,,,way
 "Avenue Truc de Moy",,,,way
 "Avenue Vital Biraben",,,,way
-"Avenue d'Ilbarritz",,,,relation
-"Avenue de Beyris",,,,relation
+"Avenue d'Ilbarritz",,,,way
+"Avenue de Beyris",,,,way
 "Avenue de Bourroua",,,,way
 "Avenue de Cam de Prats",,,,relation
 "Avenue de Camayou",,,,way
@@ -132,26 +130,21 @@ name,source,gender,wikidata,type
 "Avenue de Raspure",,,,way
 "Avenue de Rossi",,,,way
 "Avenue de Sainte-Croix",,,,way
-"Avenue de l'Iparla",,,,relation
 "Avenue de la Division Leclerc",,,,way
 "Avenue de la Légion Tchèque",,,,way
-"Avenue de la Rhune",,,,relation
-"Avenue des Arènes",,,,way
-"Avenue des Castors",,,,relation
 "Avenue des Fleurs",,,,way
 "Avenue des Lauriers",,,,way
+"Avenue des Parachutistes SAS",,,,way
 "Avenue des Prés",,,,way
-"Avenue des Pyrénées",,,,relation
 "Avenue des Tilleuls",,,,way
-"Avenue des Vallons",,,,relation
+"Avenue des Vallons",,,,way
 "Avenue du 14 Avril 1814",,,,way
 "Avenue du 7 Août 1951",,,,way
 "Avenue du Baigura",,,,relation
 "Avenue du Banc Saint-Bernard",,,,way
 "Avenue du Bayle",,,,way
 "Avenue du Grand Basque",,,,way
-"Avenue du Mondarrain",,,,relation
-"Avenue du Polo",,,,relation
+"Avenue du Polo",,,,way
 "Avenue du Prissé",,,,relation+way
 "Bayonne Pont Grenet",,,,way
 "Boulevard Jacques Duclos",,,,way
@@ -172,7 +165,7 @@ name,source,gender,wikidata,type
 "Chemin d'Estebot",,,,way
 "Chemin d'Etchéverry",,,,way
 "Chemin d'Ibos",,,,relation+way
-"Chemin de Bellevue",,,,relation
+"Chemin de Bellevue",,,,way
 "Chemin de Campagne",,,,relation
 "Chemin de Cazenave",,,,way
 "Chemin de Chala",,,,way
@@ -196,6 +189,7 @@ name,source,gender,wikidata,type
 "Chemin de Laborde",,,,relation
 "Chemin de Lachiste",,,,relation
 "Chemin de Laduché",,,,way
+"Chemin de Laguironde",,,,way
 "Chemin de Laharie",,,,way
 "Chemin de Lannot",,,,way
 "Chemin de Lasseguette",,,,way
@@ -221,8 +215,8 @@ name,source,gender,wikidata,type
 "Chemin de la Marouette",,,,way
 "Chemin des Barthes",,,,way
 "Chemin des Cisterciennes",,,,way
-"Chemin des Hêtres",,,,relation
-"Chemin du Busquet",,,,relation
+"Chemin des Hêtres",,,,way
+"Chemin du Busquet",,,,way
 "Chemin du Fort",,,,way
 "Chemin du Grand Basque",,,,way
 "Chemin du Grand et Petit Deyris",,,,way
@@ -294,21 +288,24 @@ name,source,gender,wikidata,type
 "Impasse Henri Jeanpierre",,,,relation
 "Impasse Joseph Desarménien",,,,way
 "Impasse Joseph Latournerie",,,,way
-"Impasse Lacaze",,,,relation
+"Impasse Lacaze",,,,way
 "Impasse Lamothe",,,,way
 "Impasse Paul Barroilhet",,,,way
 "Impasse Poydenot",,,,way
 "Impasse Rigaud",,,,way
 "Impasse Sous-Lieutenant de Resseguier",,,,way
 "Impasse d'Arans",,,,way
-"Impasse d'Atchinetche",,,,relation
-"Impasse de la Faïencerie",,,,relation
-"Impasse des Joncs",,,,relation
+"Impasse d'Atchinetche",,,,way
+"Impasse des Joncs",,,,way
 "Impasse du Chanteur Paulus",,,,way
 "Impasse du Grand Basque",,,,way
 "Impasse du Téné",,,,way
 "La Plachotte",,,,way
 Lapurdi,,,,relation
+"Parc de Stationnement de Mousserolles",,,,way
+"Parc de Stationnement des Glacis",,,,way
+"Parking de l'Octroi",,,,way
+"Parking de la Baignade",,,,way
 "Parvis Alexandre Mélissinos",,,,way
 "Parvis Étienne Cabillon",,,,way
 "Parvis des Anciens Combattants",,,,way
@@ -321,15 +318,15 @@ Lapurdi,,,,relation
 "Passage du Service Civil",,,,way
 "Petite Rue de l'Esté",,,,way
 "Place Bernard de Lacarre",,,,way
-"Place Gandhi",,,,relation
 "Place Jacques Portes",,,,relation
-"Place Manuel Castiella",,,,way
+"Place Marc Aubert",,,,way
 "Place Monseigneur Vansteenberghe",,,,way
 "Place Montaut",,,,way
+"Place Moracin",,,,way
 "Place Patxa",,,,way
 "Place Sainte-Ursule",,,,way
 "Place de Habas",,,,way
-"Place de l'Erebi",,,,relation
+"Place de l'Erebi",,,,way
 "Place de l'Estambot",,,,way
 "Place de la Liberté",,,,way
 "Place de la République",,,,way
@@ -352,6 +349,8 @@ Lapurdi,,,,relation
 "Quai Amiral Antoine Sala",,,,way
 "Quai Amiral Dubourdieu",,,,way
 "Quai Amiral Jaureguiberry",,,,way
+"Quai Amiral Lespes",,,,way
+"Quai Edmond Foy",,,,way
 "Quai Galuperie",,,,way
 "Quai Pedros",,,,way
 "Quai des Corsaires",,,,way
@@ -374,17 +373,16 @@ Lapurdi,,,,relation
 "Route de Bassussarry",,,,relation
 "Route de Bigot",,,,way
 "Route de Maignon",,,,way
-"Route du Travail",,,,relation
-"Rue Adrien Barthe",,,,relation
+"Route du Travail",,,,way
 "Rue Albéric Poitrenaud",,,,way
 "Rue Alfred Boulant",,,,way
 "Rue André Bouillar",,,,way
 "Rue André Etcheverlepo",,,,way
 "Rue André Joseau",,,,way
 "Rue André Perchicot",,,,way
-"Rue Antoine Labarthe",,,,relation+way
+"Rue Antoine Labarthe",,,,way
 "Rue Argenterie",,,,way
-"Rue Arnaud Détroyat",,,,relation
+"Rue Arnaud Détroyat",,,,way
 "Rue Balangué",,,,way
 "Rue Barreau de Sescars",,,,way
 "Rue Bécadine",,,,way
@@ -411,10 +409,8 @@ Lapurdi,,,,relation
 "Rue Docteur André Vidal",,,,way
 "Rue Docteur André Voulgre",,,,way
 "Rue Docteur Lucien Compagnon",,,,way
-"Rue Docteur Schweitzer",,,,relation
 "Rue Douer",,,,way
-"Rue Edmond Rostand",,,,relation
-"Rue Edmond Sée",,,,relation
+"Rue Edmond Sée",,,,way
 "Rue Édouard Ducéré",,,,way
 "Rue Ermend Bonnal",,,,relation
 "Rue Estitxu Roblès-Aranguiz",,,,relation
@@ -427,7 +423,7 @@ Lapurdi,,,,relation
 "Rue Gleize",,,,way
 "Rue Gosse",,,,way
 "Rue Guilhamin",,,,way
-"Rue Haurena",,,,relation
+"Rue Haurena",,,,way
 "Rue Hippolyte Lesca",,,,way
 "Rue Hugues",,,,way
 "Rue Intendant Général Lacrambe",,,,way
@@ -439,7 +435,7 @@ Lapurdi,,,,relation
 "Rue Lagréou",,,,way
 "Rue Lormand",,,,way
 "Rue Louis Colas",,,,relation
-"Rue Louis Seguin",,,,relation
+"Rue Louis Seguin",,,,way
 "Rue Madeleine Nicolas",,,,way
 "Rue Marengo",,,,way
 "Rue Marguerite Maze",,,,way
@@ -448,7 +444,6 @@ Lapurdi,,,,relation
 "Rue Martichot",,,,way
 "Rue Maubèc",,,,way
 "Rue Mayi et Alfred Darizcuren",,,,way
-"Rue Menigne Saube Le Bile",,,,way
 "Rue Monréjau",,,,way
 "Rue Montalibet",,,,way
 "Rue Montaut",,,,way
@@ -476,7 +471,6 @@ Lapurdi,,,,relation
 "Rue Saint-Frédéric",,,,relation
 "Rue Saubiole",,,,way
 "Rue Sauveur Narbaitz",,,,way
-"Rue Séraphin Haulon",,,,relation
 "Rue Sergent Marcel Duhau",,,,way
 "Rue Suzanne Garanx",,,,way
 "Rue Tombeloli",,,,way
@@ -488,7 +482,7 @@ Lapurdi,,,,relation
 "Rue Vionnois",,,,way
 "Rue d'Arcondau",,,,way
 "Rue d'Arrousets",,,,way
-"Rue de Balichon",,,,relation
+"Rue de Balichon",,,,way
 "Rue de Baltet",,,,way
 "Rue de Barrat",,,,way
 "Rue de Belfort",,,,way
@@ -496,7 +490,7 @@ Lapurdi,,,,relation
 "Rue de Char",,,,way
 "Rue de Chérubin",,,,way
 "Rue de Codry",,,,way
-"Rue de Donzac",,,,relation
+"Rue de Donzac",,,,way
 "Rue de Gassanné",,,,relation+way
 "Rue de Gramont",,,,way
 "Rue de Hillans",,,,way
@@ -505,22 +499,23 @@ Lapurdi,,,,relation
 "Rue de Lestandau",,,,relation
 "Rue de Luc",,,,way
 "Rue de Malledaille",,,,way
-"Rue de Masure",,,,relation
+"Rue de Masure",,,,way
 "Rue de Ravignan",,,,way
 "Rue de Talouchet",,,,way
 "Rue de Tosse",,,,way
 "Rue de l'Abesque",,,,way
-"Rue de l'Arsamendi",,,,relation
+"Rue de l'Arsamendi",,,,way
 "Rue de l'Esté",,,,way
 "Rue de la Baignade",,,,way
 "Rue de la Cabotte",,,,way
 "Rue de la Cale",,,,way
 "Rue de la Caserne des Douanes",,,,way
 "Rue de la Châtaigneraie",,,,way
-"Rue de la Feuillée",,,,relation
+"Rue de la Chêneraie",,,,way
+"Rue de la Feuillée",,,,way
 "Rue de la Gendarmerie",,,,way
 "Rue de la Monnaie",,,,way
-"Rue de la Nouvelle Poste",,,,relation
+"Rue de la Nouvelle Poste",,,,way
 "Rue de la Porcelaine",,,,way
 "Rue de la Redoute",,,,way
 "Rue de la Sablère",,,,way
@@ -530,7 +525,7 @@ Lapurdi,,,,relation
 "Rue des Augustins",,,,way
 "Rue des Carmes",,,,way
 "Rue des Champs",,,,way
-"Rue des Courlis",,,,relation
+"Rue des Courlis",,,,way
 "Rue des Dominicaines",,,,way
 "Rue des Faures",,,,way
 "Rue des Fougères",,,,way
@@ -541,19 +536,19 @@ Lapurdi,,,,relation
 "Rue des Mimosas",,,,way
 "Rue des Montagnards",,,,relation
 "Rue des Padouans",,,,way
-"Rue des Peupliers",,,,way
 "Rue des Pluviers",,,,way
-"Rue des Pontots",,,,relation+way
+"Rue des Pontots",,,,way
 "Rue des Prébendés",,,,way
 "Rue des Soeurs Blanches",,,,way
 "Rue du 21 Juin 1940",,,,way
 "Rue du Bastion Royal",,,,way
+"Rue du Bastion Sainte-Claire",,,,way
 "Rue du Canal",,,,way
 "Rue du Chalibardon",,,,way
 "Rue du Foirail",,,,way
 "Rue du Grand Hargous",,,,way
 "Rue du Grand Limpou",,,,relation
-"Rue du Marais de l'Estunard",,,,relation
+"Rue du Marais de l'Estunard",,,,way
 "Rue du Moulin",,,,way
 "Rue du Moulin d'Aritxague",,,,way
 "Rue du Moulin de Castera",,,,way
@@ -575,7 +570,6 @@ Lapurdi,,,,relation
 "Square Bergeret",,,,way
 "Square Jean Lannes",,,,way
 "Square Léo Pouzac",,,,way
-"Square Pierre Benoit",,,,relation
 "Square Pierre Simonet",,,,way
 "Square du Cèdre",,,,way
 "passage Aran Eder",,,,way
