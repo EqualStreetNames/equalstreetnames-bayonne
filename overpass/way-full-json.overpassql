@@ -1,3 +1,6 @@
+/**
+ * suppresion du highway!=service
+ */
 [out:json][timeout:300];
 ( area["admin_level"=""]["wikidata"="Q134674"]; )->.a;
 (
