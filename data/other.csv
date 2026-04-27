@@ -29,8 +29,8 @@ name,source,gender,wikidata,type
 "Allée de Constantin",,,,way
 "Allée de Gibéléou",,,,way
 "Allée de Glain",,,,way
-"Allée de Gouran",,,,relation
-"Allée de Grande Borde",,,,relation
+"Allée de Gouran",,,,way
+"Allée de Grande Borde",,,,way
 "Allée de Haou",,,,way
 "Allée de Harriet",,,,way
 "Allée de Huire",,,,way
@@ -40,7 +40,7 @@ name,source,gender,wikidata,type
 "Allée de Lartigot",,,,way
 "Allée de Lestang",,,,way
 "Allée de Ligny",,,,way
-"Allée de Montplaisir",,,,relation+way
+"Allée de Montplaisir",,,,way
 "Allée de Niert",,,,way
 "Allée de Passenabe",,,,way
 "Allée de Peyras",,,,way
@@ -54,13 +54,11 @@ name,source,gender,wikidata,type
 "Allée de la Fontaine de Bernin",,,,way
 "Allée de la Fontaine de Vignau",,,,way
 "Allée de la Glacière",,,,way
-"Allée de la Gravière",,,,way
 "Allée de la Pièce Noyée",,,,way
 "Allée de la Poterne",,,,way
 "Allée des Cordiers",,,,way
 "Allée des Fontaines",,,,way
 "Allée des Hauts de Saint-Hubert",,,,way
-"Allée des Pins",,,,relation
 "Allée des Tarrides",,,,way
 "Allée du Bois des Violettes",,,,way
 "Allée du Grand Paradis",,,,way
@@ -84,7 +82,6 @@ name,source,gender,wikidata,type
 "Avenue Lieutenant Colonel de Lassalle",,,,way
 "Avenue Marthe Jan",,,,way
 "Avenue Monseigneur Gieure",,,,way
-"Avenue Paul Pras",,,,way
 "Avenue Raymond de Martres",,,,way
 "Avenue Roger Maylie",,,,way
 "Avenue Sergent Capmas",,,,way
@@ -107,15 +104,12 @@ name,source,gender,wikidata,type
 "Avenue de Sainte-Croix",,,,way
 "Avenue de la Division Leclerc",,,,way
 "Avenue de la Légion Tchèque",,,,way
-"Avenue des Fleurs",,,,way
-"Avenue des Lauriers",,,,way
 "Avenue des Parachutistes SAS",,,,way
 "Avenue des Prés",,,,way
 "Avenue des Tilleuls",,,,way
 "Avenue des Vallons",,,,way
 "Avenue du 14 Avril 1814",,,,way
 "Avenue du 7 Août 1951",,,,way
-"Avenue du Baigura",,,,relation
 "Avenue du Banc Saint-Bernard",,,,way
 "Avenue du Bayle",,,,way
 "Avenue du Grand Basque",,,,way
@@ -148,7 +142,7 @@ name,source,gender,wikidata,type
 "Chemin de Clairoun de Haut",,,,way
 "Chemin de Compagnet",,,,way
 "Chemin de Crouzades",,,,way
-"Chemin de Fortune",,,,relation+way
+"Chemin de Fortune",,,,way
 "Chemin de Frais",,,,way
 "Chemin de Garinde",,,,way
 "Chemin de Halage",,,,relation
@@ -160,7 +154,7 @@ name,source,gender,wikidata,type
 "Chemin de Jacquemin",,,,way
 "Chemin de Jacquette",,,,way
 "Chemin de Jupiter",,,,way
-"Chemin de Laborde",,,,relation
+"Chemin de Laborde",,,,way
 "Chemin de Lachiste",,,,way
 "Chemin de Laduché",,,,way
 "Chemin de Laguironde",,,,way
@@ -186,7 +180,6 @@ name,source,gender,wikidata,type
 "Chemin de l’Étang",,,,way
 "Chemin de la Humère",,,,way
 "Chemin de la Marouette",,,,way
-"Chemin des Barthes",,,,way
 "Chemin des Cisterciennes",,,,way
 "Chemin du Busquet",,,,way
 "Chemin du Fort",,,,way
@@ -251,20 +244,16 @@ name,source,gender,wikidata,type
 "Giratoire du Travail",,,,way
 "Impasse Bergeret",,,,way
 "Impasse Bernard Tambourindeguy",,,,way
-"Impasse Émile Prestat",,,,relation
+"Impasse Émile Prestat",,,,way
 "Impasse Gayon",,,,way
 "Impasse Henri Jeanpierre",,,,way
-"Impasse Joseph Desarménien",,,,way
 "Impasse Joseph Latournerie",,,,way
 "Impasse Lacaze",,,,way
 "Impasse Lamothe",,,,way
-"Impasse Paul Barroilhet",,,,way
 "Impasse Rigaud",,,,way
 "Impasse Sous-Lieutenant de Resseguier",,,,way
 "Impasse d'Arans",,,,way
 "Impasse d'Atchinetche",,,,way
-"Impasse des Joncs",,,,way
-"Impasse du Chanteur Paulus",,,,way
 "Impasse du Grand Basque",,,,way
 "Impasse du Téné",,,,way
 "La Plachotte",,,,way
@@ -296,7 +285,6 @@ Lapurdi,,,,relation
 "Place du Marquisat",,,,way
 "Place du Polo Beyris",,,,way
 "Placette Justin Bourdaa",,,,way
-"Pont Blanc",,,,way
 "Pont Charles Vaillant",,,,way
 "Pont Marengo",,,,way
 "Pont Mayou",,,,way
@@ -327,21 +315,18 @@ Lapurdi,,,,relation
 "Route de Bassussarry",,,,relation
 "Route de Bigot",,,,way
 "Route de Maignon",,,,way
-"Rue Alfred Boulant",,,,way
 "Rue André Etcheverlepo",,,,way
 "Rue André Joseau",,,,way
-"Rue André Perchicot",,,,way
 "Rue Antoine Labarthe",,,,way
 "Rue Argenterie",,,,way
 "Rue Arnaud Détroyat",,,,way
 "Rue Balangué",,,,way
-"Rue Barreau de Sescars",,,,way
 "Rue Bécadine",,,,way
 "Rue Benoît Sourigues",,,,way
 "Rue Bère Hount",,,,way
 "Rue Bernadou",,,,way
 "Rue Bernède",,,,way
-"Rue Bon Secours",,,,relation
+"Rue Bon Secours",,,,way
 "Rue Boura",,,,way
 "Rue Bourgneuf",,,,way
 "Rue Brigadier Muscar",,,,way
@@ -349,7 +334,6 @@ Lapurdi,,,,relation
 "Rue Cardinal Godin",,,,way
 "Rue Carlito Oyarzun",,,,way
 "Rue Caroline Rimbert",,,,way
-"Rue Cassaigne",,,,way
 "Rue Chanoine Daranatz",,,,way
 "Rue Chanoine Jean Borthayre",,,,way
 "Rue Charcutière",,,,way
@@ -404,10 +388,9 @@ Lapurdi,,,,relation
 "Rue Port de Bertaco",,,,way
 "Rue Port de Castets",,,,way
 "Rue Port de Suzeye",,,,way
-"Rue Raymond Sousbielle",,,,way
 "Rue Sabaterie",,,,way
 "Rue Saint-Forcet",,,,way
-"Rue Saint-Frédéric",,,,relation
+"Rue Saint-Frédéric",,,,way
 "Rue Saubiole",,,,way
 "Rue Sauveur Narbaitz",,,,way
 "Rue Sergent Marcel Duhau",,,,way
@@ -416,7 +399,6 @@ Lapurdi,,,,relation
 "Rue Tour de Sault",,,,way
 "Rue Vainsot",,,,way
 "Rue Vasserot",,,,way
-"Rue Verdier",,,,way
 "Rue Vieille Boucherie",,,,way
 "Rue Vionnois",,,,way
 "Rue d'Arcondau",,,,way
@@ -430,7 +412,7 @@ Lapurdi,,,,relation
 "Rue de Chérubin",,,,way
 "Rue de Codry",,,,way
 "Rue de Donzac",,,,way
-"Rue de Gassanné",,,,relation+way
+"Rue de Gassanné",,,,way
 "Rue de Hillans",,,,way
 "Rue de Hiriarte",,,,way
 "Rue de Lasseguette",,,,way
@@ -493,7 +475,6 @@ Lapurdi,,,,relation
 "Rue du Sequé",,,,way
 "Rue du Télégraphe",,,,way
 "Rue du Téné",,,,way
-"Rue du Trinquet",,,,way
 "Ruelle Gardin",,,,way
 "Ruelle Port-Neuf",,,,way
 "Ruelle de la Flamande",,,,way

@@ -1,6 +1,8 @@
 name,source,gender,wikidata,type
 "Allée de la Fontaine de Trévi",wikidata,-,Q185382,way
+"Allée de la Gravière",wikidata,-,Q504874,way
 "Allée des Bruyères",wikidata,-,Q206998,way
+"Allée des Pins",wikidata,-,Q12024,way
 "Allée des Platanes",wikidata,-,Q163025,way
 "Allée des Roses",wikidata,-,Q34687,way
 "Allée du Laxia",wikidata,-,Q3219945,way
@@ -15,20 +17,25 @@ name,source,gender,wikidata,type
 "Avenue de la Rhune",wikidata,-,Q2737839,way
 "Avenue des Arènes",wikidata,-,Q2866138,way
 "Avenue des Castors",wikidata,-,Q2941499,way
+"Avenue des Fleurs",wikidata,-,Q506,way
+"Avenue des Lauriers",wikidata,-,Q21188,way
 "Avenue des Pyrénées",wikidata,-,Q12431,way
 "Avenue du 11 Novembre 1918",wikidata,-,Q253224,way
 "Avenue du 8 Mai 1945",wikidata,-,Q622365,way
+"Avenue du Baigura",wikidata,-,Q3321695,way
 "Avenue du Béarn",wikidata,-,Q213763,way
 "Avenue du Mondarrain",wikidata,-,Q3320487,way
 "Avenue du Polo",wikidata,-,Q106581364,way
 "Boulevard Alsace-Lorraine",wikidata,-,Q155144,way
 "Boulevard d'Aritxague",wikidata,-,Q95611356,way
 "Chemin de Mousserolles",wikidata,-,Q20492452,way
+"Chemin des Barthes",wikidata,-,Q2885928,way
 "Chemin des Hêtres",wikidata,-,Q25403,way
 "Chemin du Moulin de Bacheforès",wikidata,-,Q28177228,way
 "Esplanade de Verdun",wikidata,-,Q130847,way
 "Esplanade de l'Échauguette",wikidata,-,Q729998,way
 "Impasse de la Faïencerie",wikidata,-,Q3067776,way
+"Impasse des Joncs",wikidata,-,Q1322131,way
 "Parc de Stationnement de Mousserolles",wikidata,-,Q20492452,way
 "Parc de Stationnement des Glacis",wikidata,-,Q948008,way
 "Parvis des Anciens Combattants",wikidata,-,Q193891,way
@@ -41,8 +48,9 @@ name,source,gender,wikidata,type
 "Place de la Porte d'Espagne",wikidata,-,Q17486665,way
 "Place des Basques",wikidata,-,Q126756,way
 "Place des Gascons",wikidata,-,Q3098704,way
-"Place du Château-Vieux",wikidata,-,Q12258310,way
+"Place du Château Vieux",wikidata,-,Q12258310,way
 "Place du Réduit",wikidata,-,Q90747,way
+"Pont Blanc",wikidata,-,Q278165,way
 "Pont Saint-Esprit",wikidata,-,Q3462122,way
 "Pont du Génie",wikidata,-,Q158797,way
 "Pont du Labourd",wikidata,-,Q671023,way
@@ -74,6 +82,7 @@ name,source,gender,wikidata,type
 "Rue du Jeu de Paume",wikidata,-,Q797108,way
 "Rue du Palais",wikidata,-,Q1137809,way
 "Rue du Temple",wikidata,-,Q56242063,way
+"Rue du Trinquet",wikidata,-,Q11142797,way
 "Ruelle des Basques",wikidata,-,Q126756,way
 "Square de l'Aigle Impériale",wikidata,-,Q109016657,way
 "Allée Catherine de Bourbon",wikidata,F,Q268652,way
@@ -95,7 +104,7 @@ name,source,gender,wikidata,type
 "Placette Berthe Baudet-Grimard",wikidata,F,Q67167180,relation
 "Rue Blanche Hennebutte",wikidata,F,Q18507944,way
 "Rue Colette Etchepare-Pénaud",wikidata,F,Q123281759,way
-"Rue Eliane Jeannin Garreau",wikidata,F,Q8078202,way
+"Rue Eliane Jeannin-Garreau",wikidata,F,Q8078202,way
 "Rue Estitxu Roblès-Aranguiz",wikidata,F,Q12257307,way
 "Rue Hélène Feillet",wikidata,F,Q15407045,way
 "Rue Jeanne Peyré",wikidata,F,Q131406359,way
@@ -155,6 +164,7 @@ name,source,gender,wikidata,type
 "Avenue Maréchal Soult",wikidata,M,Q296023,way
 "Avenue Maréchal de Lautrec",wikidata,M,Q745211,way
 "Avenue Maurice Goalard",wikidata,M,Q139023893,way
+"Avenue Paul Pras",wikidata,M,Q139066755,way
 "Avenue Pierre Loti",wikidata,M,Q311854,way
 "Avenue Raoul Follereau",wikidata,M,Q2706190,way
 "Avenue de Lattre de Tassigny",wikidata,M,Q81114,way
@@ -165,7 +175,10 @@ name,source,gender,wikidata,type
 "Giratoire René Cuzacq",wikidata,M,Q55672212,way
 "Impasse David Bally",wikidata,M,Q130478406,way
 "Impasse Gambetta",wikidata,M,Q295090,way
+"Impasse Joseph Desarménien",wikidata,M,Q139393408,way
+"Impasse Paul Barroilhet",wikidata,M,Q7149245,way
 "Impasse Poydenot",wikidata,M,Q124527680,way
+"Impasse du Chanteur Paulus",wikidata,M,Q3372843,way
 "Parvis Jean Haritschelhar",wikidata,M,Q3068794,way
 "Place André Emlinger",wikidata,M,Q2847719,way
 "Place Arnaud Beltrame",wikidata,M,Q50862318,way
@@ -197,11 +210,15 @@ name,source,gender,wikidata,type
 "Rue Albéric Poitrenaud",wikidata,M,Q139065961,way
 "Rue Albert 1er",wikidata,M,Q55008046,way
 "Rue Albert Thomas",wikidata,M,Q2025679,way
+"Rue Alfred Boulant",wikidata,M,Q117707027,way
 "Rue Ambroise Paré",wikidata,M,Q276480,way
 "Rue André Bouillar",wikidata,M,Q139054655,way
+"Rue André Perchicot",wikidata,M,Q522241,way
 "Rue Aristide Briand",wikidata,M,Q179888,way
-"Rue Aristides de Sousa Mendes",wikidata,M,Q117371,way
+"Rue Aristides De Sousa Mendes",wikidata,M,Q117371,way
 "Rue Armand David",wikidata,M,Q346939,way
+"Rue Barreau de Sescars",wikidata,M,Q85852788,way
+"Rue Cassaigne",wikidata,M,Q139393469,way
 "Rue Charles Floquet",wikidata,M,Q471311,way
 "Rue Daniel Argote",wikidata,M,Q3013677,way
 "Rue Docteur Schweitzer",wikidata,M,Q49325,way
@@ -234,15 +251,17 @@ name,source,gender,wikidata,type
 "Rue Paul Jean Toulet",wikidata,M,Q2627812,way
 "Rue Pelletier",wikidata,M,Q828603,way
 "Rue Philippe Veyrin",wikidata,M,Q12265850,way
-"Rue Pierre Georges Latécoère",wikidata,M,Q960742,way
 "Rue Pierre Lesca",wikidata,M,Q120143225,way
 "Rue Pierre Rectoran",wikidata,M,Q55672817,way
+"Rue Pierre-Georges Latécoère",wikidata,M,Q960742,way
 "Rue Poydenot",wikidata,M,Q124527680,way
 "Rue Raoul Perpère",wikidata,M,Q3419244,way
+"Rue Raymond Sousbielle",wikidata,M,Q139393122,way
 "Rue René Cuzacq",wikidata,M,Q55672212,way
 "Rue Séraphin Haulon",wikidata,M,Q3511110,way
 "Rue Ulysse Darracq",wikidata,M,Q21509819,way
 "Rue Vauban",wikidata,M,Q192839,way
+"Rue Verdier",wikidata,M,Q139393274,way
 "Rue Victor Hugo",wikidata,M,Q535,way
 "Rue de Coursic",wikidata,M,Q9012116,way
 "Square Chanoine Dubarat",wikidata,M,Q55772720,way
