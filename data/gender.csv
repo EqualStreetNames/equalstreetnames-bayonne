@@ -55,6 +55,7 @@ name,source,gender,wikidata,type
 "Pont du Génie",wikidata,-,Q158797,way
 "Pont du Labourd",wikidata,-,Q671023,way
 "Quai de Montevideo",wikidata,-,Q1335,way
+"Rond-Point du Seignanx",wikidata,-,Q3477802,way
 "Route du Travail",wikidata,-,Q192581,way
 "Rue d'Espagne",wikidata,-,Q29,way
 "Rue de Gramont",wikidata,-,Q16021383,way
@@ -85,6 +86,7 @@ name,source,gender,wikidata,type
 "Rue du Trinquet",wikidata,-,Q11142797,way
 "Ruelle des Basques",wikidata,-,Q126756,way
 "Square de l'Aigle Impériale",wikidata,-,Q109016657,way
+"Square du Cèdre",wikidata,-,Q128550,way
 "Allée Catherine de Bourbon",wikidata,F,Q268652,way
 "Allée Maite Barnetche",wikidata,F,Q123437709,way
 "Allée Manon Cormier",wikidata,F,Q3286445,way
@@ -191,6 +193,7 @@ name,source,gender,wikidata,type
 "Place Louis Pasteur",wikidata,M,Q529,way
 "Place Manuel Castiella",wikidata,M,Q138965894,way
 "Place Marc Aubert",wikidata,M,Q139055883,way
+"Place Monseigneur Vansteenberghe",wikidata,M,Q12256476,way
 "Place Paul Bert",wikidata,M,Q735370,way
 "Place Pierre Espil",wikidata,M,Q56598886,way
 "Place Saint-Exupéry",wikidata,M,Q2908,way
@@ -218,9 +221,12 @@ name,source,gender,wikidata,type
 "Rue Aristides De Sousa Mendes",wikidata,M,Q117371,way
 "Rue Armand David",wikidata,M,Q346939,way
 "Rue Barreau de Sescars",wikidata,M,Q85852788,way
+"Rue Brigadier Muscar",wikidata,M,Q31941719,way
+"Rue Capitaine Pellot",wikidata,M,Q3592322,way
 "Rue Cassaigne",wikidata,M,Q139393469,way
 "Rue Charles Floquet",wikidata,M,Q471311,way
 "Rue Daniel Argote",wikidata,M,Q3013677,way
+"Rue Denis Etcheverry",wikidata,M,Q3141913,way
 "Rue Docteur Schweitzer",wikidata,M,Q49325,way
 "Rue Edmond Rostand",wikidata,M,Q202749,way
 "Rue Édouard Ducéré",wikidata,M,Q3579824,way
@@ -264,9 +270,12 @@ name,source,gender,wikidata,type
 "Rue Verdier",wikidata,M,Q139393274,way
 "Rue Victor Hugo",wikidata,M,Q535,way
 "Rue de Coursic",wikidata,M,Q9012116,way
+"Square Bergeret",wikidata,M,Q3158247,way
 "Square Chanoine Dubarat",wikidata,M,Q55772720,way
 "Square Gambetta",wikidata,M,Q295090,way
+"Square Jean Lannes",wikidata,M,Q139591506,way
 "Square Lafayette",wikidata,M,Q186652,way
 "Square Léo Pouzac",wikidata,M,Q139055471,way
 "Square Paul Gadenne",wikidata,M,Q774678,way
 "Square Pierre Benoit",wikidata,M,Q551767,way
+"Square Pierre Simonet",wikidata,M,Q11985020,way
