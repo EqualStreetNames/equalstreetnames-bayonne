@@ -42,7 +42,6 @@ name,source,gender,wikidata,type
 "Passage de la Feria",wikidata,-,Q16023945,way
 "Passage des Cacolets",wikidata,-,Q2932563,way
 "Passage des Carmélites",wikidata,-,Q186277,way
-"Place Pereire",wikidata,-,Q286386,way
 "Place de l'Arsenal",wikidata,-,Q81669,way
 "Place de la Paix",wikidata,-,Q454,way
 "Place de la Porte d'Espagne",wikidata,-,Q17486665,way
@@ -174,6 +173,7 @@ name,source,gender,wikidata,type
 "Cours Comte de Cabarrus",wikidata,M,Q2602960,way
 "Esplanade Roland Barthes",wikidata,M,Q179109,way
 "Giratoire Albert Thomas",wikidata,M,Q2025679,way
+"Giratoire Jean Jaurès",wikidata,M,Q12688,way
 "Giratoire René Cuzacq",wikidata,M,Q55672212,way
 "Impasse David Bally",wikidata,M,Q130478406,way
 "Impasse Gambetta",wikidata,M,Q295090,way
@@ -195,6 +195,7 @@ name,source,gender,wikidata,type
 "Place Marc Aubert",wikidata,M,Q139055883,way
 "Place Monseigneur Vansteenberghe",wikidata,M,Q12256476,way
 "Place Paul Bert",wikidata,M,Q735370,way
+"Place Pereire",wikidata,M,Q19260104;Q1673436,way
 "Place Pierre Espil",wikidata,M,Q56598886,way
 "Place Saint-Exupéry",wikidata,M,Q2908,way
 "Placette André Béhotéguy",wikidata,M,Q371503,way
@@ -269,6 +270,7 @@ name,source,gender,wikidata,type
 "Rue Vauban",wikidata,M,Q192839,way
 "Rue Verdier",wikidata,M,Q139393274,way
 "Rue Victor Hugo",wikidata,M,Q535,way
+"Rue de Candolle",wikidata,M,Q123057,way
 "Rue de Coursic",wikidata,M,Q9012116,way
 "Square Bergeret",wikidata,M,Q3158247,way
 "Square Chanoine Dubarat",wikidata,M,Q55772720,way

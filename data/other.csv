@@ -12,7 +12,7 @@ name,source,gender,wikidata,type
 "Allée Jean-Claude Guérobé",,,,way
 "Allée Lacoustille",,,,way
 "Allée Le Téoule",,,,way
-"Allée Mari-Martin",,,,relation
+"Allée Mari-Martin",,,,way
 "Allée Miradour",,,,way
 "Allée Porteteny",,,,way
 "Allée Rose des Vents",,,,way
@@ -114,7 +114,6 @@ name,source,gender,wikidata,type
 "Avenue du Bayle",,,,way
 "Avenue du Grand Basque",,,,way
 "Avenue du Prissé",,,,way
-"Bayonne Pont Grenet",,,,way
 "Boulevard Jacques Duclos",,,,way
 "Boulevard Jean d'Amou",,,,way
 "Boulevard du BAB",,,,way
@@ -204,7 +203,6 @@ name,source,gender,wikidata,type
 "Giratoire Fredo Herrera",,,,way
 "Giratoire Gaston Lesbats",,,,way
 "Giratoire Gayon",,,,way
-"Giratoire Jean Jaurès",,,,way
 "Giratoire Jeanne Harding",,,,way
 "Giratoire Marie-Thérèse Gambade",,,,relation
 "Giratoire Mario Solano",,,,way
@@ -375,7 +373,7 @@ Lapurdi,,,,relation
 "Rue Pannecau",,,,way
 "Rue Passemillon",,,,way
 "Rue Pauline Rodrigues",,,,way
-"Rue Pierre Laporte",,,,relation
+"Rue Pierre Laporte",,,,way
 "Rue Pierre Sabre",,,,way
 "Rue Poissonnerie",,,,way
 "Rue Pontrique",,,,way
@@ -402,7 +400,6 @@ Lapurdi,,,,relation
 "Rue de Baltet",,,,way
 "Rue de Barrat",,,,way
 "Rue de Belfort",,,,way
-"Rue de Candolle",,,,way
 "Rue de Char",,,,way
 "Rue de Chérubin",,,,way
 "Rue de Codry",,,,way
