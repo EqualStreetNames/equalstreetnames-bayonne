@@ -171,7 +171,7 @@ name,source,gender,wikidata,type
 "Avenue de Lattre de Tassigny",wikidata,M,Q81114,way
 "Boulevard Jean Jaurès",wikidata,M,Q12688,way
 "Cours Comte de Cabarrus",wikidata,M,Q2602960,way
-"Esplanade Roland Barthes",wikidata,M,Q179109,way
+"Esplanade Roland Barthes",wikidata,M,Q179109,relation+way
 "Giratoire Albert Thomas",wikidata,M,Q2025679,way
 "Giratoire Jean Jaurès",wikidata,M,Q12688,way
 "Giratoire René Cuzacq",wikidata,M,Q55672212,way
